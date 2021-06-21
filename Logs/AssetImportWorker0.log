@@ -90,3 +90,24 @@ Received Import Request.
 Start importing Assets/Scenes/GlobeTest.unity using Guid(af7d1b91be754374dbc88f0c09d83831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e58ac23b2cb88b66aacda0e8ab9cd63') in 0.001347 seconds
   Import took 0.003453 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.036 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.20 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1110 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 118.2 MB.
+System memory in use after: 118.3 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1610.
+Total: 2.302885 ms (FindLiveObjects: 0.232390 ms CreateObjectMapping: 0.050795 ms MarkObjects: 1.982478 ms  DeleteObjects: 0.035723 ms)
+
